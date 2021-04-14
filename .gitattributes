@@ -12,3 +12,6 @@
 
 # Subtitles
 *.vtt filter=lfs diff=lfs merge=lfs -text
+
+# SVG
+*.svg filter=lfs diff=lfs merge=lfs -text
